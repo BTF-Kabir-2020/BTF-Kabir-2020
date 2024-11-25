@@ -36,7 +36,9 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BTF-Kabir-2020&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BTF-Kabir-2020&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BTF-Kabir-2020&theme=one_dark_pro&hide_border=false)
 
 ---
