@@ -78,6 +78,6 @@ Full-Stack Developer with 4+ years of experience in designing and<br>implementin
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=BTF-Kabir-2020&theme=one_dark)
 
-![Top Languages](https://ghstats.dev/api/languages/BTF-Kabir-2020?theme=one_dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BTF-Kabir-2020&layout=compact&theme=one_dark_pro)
 
 
