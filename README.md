@@ -75,8 +75,9 @@ Full-Stack Developer with 4+ years of experience in designing and<br>implementin
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BTF-Kabir-2020&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BTF-Kabir-2020&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://ghstats.dev/api/card?username=BTF-Kabir-2020&theme=one_dark)
+
+![Top Languages](https://ghstats.dev/api/languages/BTF-Kabir-2020?theme=one_dark)
 
 
