@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="https://avatars.githubusercontent.com/u/101173470" width="120" height="120" alt="BTF Kabir" style="border-radius: 50%;">
 </p>
 
@@ -9,13 +9,13 @@ Full-Stack Developer focused on **backend & infrastructure**, with work across R
 ## Featured
 
 - **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** - Persian/Arabic RTL Markdown Preview for VS Code  
-  [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd) · [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd)
+  [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd)  [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd)
 
 ## Open Source
 
-- **Nitro** - [docs: lifecycle pathname](https://github.com/nitrojs/nitro/pull/4442) ✅ merged
-- **Biome** - [fix: forwardRef + useHookAtTopLevel](https://github.com/biomejs/biome/pull/11007) ✅ merged
-- **Watchexec** - [docs: quit on Signal::Terminate](https://github.com/watchexec/watchexec/pull/1059) ✅ merged
+- **Nitro** - [docs: lifecycle pathname](https://github.com/nitrojs/nitro/pull/4442) (merged)
+- **Biome** - [fix: forwardRef + useHookAtTopLevel](https://github.com/biomejs/biome/pull/11007) (merged)
+- **Watchexec** - [docs: quit on Signal::Terminate](https://github.com/watchexec/watchexec/pull/1059) (merged)
 - **Oxc** / **Dioxus** - PRs open (JS/Rust tooling path)
 
 ## Socials
