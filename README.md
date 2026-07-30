@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/101173470" width="120" height="120" alt="BTF Kabir" style="border-radius: 50%;">
+</p>
+
 # About Me
 
 Full-Stack Developer focused on **backend & infrastructure**, with work across React/Next.js, NestJS, and Rust tooling. Head Manager & Coding Controller at **Amen Security**.
