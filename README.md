@@ -36,9 +36,9 @@ Also open: **Oxc** · **Dioxus** · **ripgrep** · **hexyl**
 
 ## Links
 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/irscript_ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-gh-56343638b/)
 [![Amen](https://img.shields.io/badge/Amen_Security-111827?style=flat-square)](https://amensecurity.ca)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/irscript_ai)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/f7tnJcBZDb)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Tekoya-learn)
 
