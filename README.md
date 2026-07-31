@@ -1,7 +1,7 @@
 # BTF Kabir
 
 **Full-stack & infrastructure** · TypeScript · NestJS · Next.js · Rust  
-Team Lead at [Amen Security](https://amensecurity.ca) · [LinkedIn](https://www.linkedin.com/in/pouya-gh-56343638b/)
+Team Lead at [Amen Security](https://amensecurity.ca)
 
 I ship production web platforms end-to-end (API, web, auth, deploy) and build systems tooling in Rust when it fits — control planes, CLIs, and DX extensions.
 
@@ -11,7 +11,6 @@ I ship production web platforms end-to-end (API, web, auth, deploy) and build sy
 
 | | |
 |--|--|
-| **[Amen Security](https://amensecurity.ca)** | Live MSP + Web & Apps platform — NestJS / Next.js, Amen Gate captcha, Docker / nginx |
 | **[NebulaGrid](https://github.com/BTF-Kabir-2020/NebulaGrid)** | Open-source infra control plane — Rust/Axum gateway + React dashboard · [wiki](https://github.com/BTF-Kabir-2020/NebulaGrid/wiki) |
 | **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** | RTL Markdown preview — [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd) · [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd) |
 
