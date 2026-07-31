@@ -1,48 +1,51 @@
-# About Me
+# BTF Kabir
 
-Full-stack engineer focused on **TypeScript (NestJS / Next.js)** and **Rust tooling**.
+**Full-stack & infrastructure** · TypeScript · NestJS · Next.js · Rust  
+Team Lead at [Amen Security](https://amensecurity.ca) · [LinkedIn](https://www.linkedin.com/in/pouya-gh-56343638b/)
 
-Team Lead at **[Amen Security](https://amensecurity.ca)** — shipping a bilingual Canadian MSP + Web & Apps platform (API, web, infra, Amen Gate).
+I ship production web platforms end-to-end (API, web, auth, deploy) and build systems tooling in Rust when it fits — control planes, CLIs, and DX extensions.
 
-Also building in public: **[NebulaGrid](https://github.com/BTF-Kabir-2020/NebulaGrid)** (Rust/Axum + React control plane), **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** (VS Marketplace + Open VSX), and OSS merges in Nitro / Biome / Watchexec.
+---
 
-LinkedIn: [pouya-gh-56343638b](https://www.linkedin.com/in/pouya-gh-56343638b/)
+## Now
 
-## Featured
+| | |
+|--|--|
+| **[Amen Security](https://amensecurity.ca)** | Live MSP + Web & Apps platform — NestJS / Next.js, Amen Gate captcha, Docker / nginx |
+| **[NebulaGrid](https://github.com/BTF-Kabir-2020/NebulaGrid)** | Open-source infra control plane — Rust/Axum gateway + React dashboard · [wiki](https://github.com/BTF-Kabir-2020/NebulaGrid/wiki) |
+| **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** | RTL Markdown preview — [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd) · [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd) |
 
-- **[NebulaGrid](https://github.com/BTF-Kabir-2020/NebulaGrid)** — Infrastructure control plane (Rust Axum + React) for servers, containers, VMs, Kubernetes, storage, and more  
-  [Wiki](https://github.com/BTF-Kabir-2020/NebulaGrid/wiki) · [Docs](https://github.com/BTF-Kabir-2020/NebulaGrid#documentation)
+---
 
-- **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** — Persian/Arabic RTL Markdown Preview for VS Code  
-  [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd) · [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd)
+## Open source
 
-## Open Source
+Merged contributions on the JS infra → Rust tooling path:
 
-- **Nitro** — [docs: lifecycle pathname](https://github.com/nitrojs/nitro/pull/4442) (merged)
-- **Biome** — [fix: forwardRef + useHookAtTopLevel](https://github.com/biomejs/biome/pull/11007) (merged)
-- **Watchexec** — [docs: quit on Signal::Terminate](https://github.com/watchexec/watchexec/pull/1059) (merged)
-- **Oxc** / **Dioxus** / **ripgrep** / **hexyl** — PRs open (JS/Rust tooling path)
+- [Nitro #4442](https://github.com/nitrojs/nitro/pull/4442) — docs: `event.url.pathname` in lifecycle
+- [Biome #11007](https://github.com/biomejs/biome/pull/11007) — fix: `forwardRef` + `useHookAtTopLevel`
+- [Watchexec #1059](https://github.com/watchexec/watchexec/pull/1059) — docs: quit on `Signal::Terminate`
 
-## Socials
+Also open: **Oxc** · **Dioxus** · **ripgrep** · **hexyl**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-gh-56343638b/) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/irscript_ai) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/f7tnJcBZDb) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Tekoya-learn)
+---
 
-## Tech Stack
+## Stack
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Axum](https://img.shields.io/badge/axum-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+`TypeScript` · `React` · `Next.js` · `NestJS` · `Node.js` · `Rust` · `Axum` · `Docker` · `Postgres` · `Redis` · `nginx`
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://ghstats.dev/api/card?username=BTF-Kabir-2020&theme=one_dark)
+## Links
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BTF-Kabir-2020&layout=compact&theme=one_dark_pro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-gh-56343638b/)
+[![Amen](https://img.shields.io/badge/Amen_Security-111827?style=flat-square)](https://amensecurity.ca)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/irscript_ai)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/f7tnJcBZDb)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Tekoya-learn)
+
+---
+
+<p align="left">
+  <img src="https://ghstats.dev/api/card?username=BTF-Kabir-2020&theme=one_dark" alt="GitHub stats" height="140" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BTF-Kabir-2020&layout=compact&theme=one_dark_pro" alt="Top languages" height="140" />
+</p>
