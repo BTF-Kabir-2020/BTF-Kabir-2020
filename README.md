@@ -22,8 +22,6 @@ Merged contributions on the JS infra → Rust tooling path:
 - [Biome #11007](https://github.com/biomejs/biome/pull/11007) — fix: `forwardRef` + `useHookAtTopLevel`
 - [Watchexec #1059](https://github.com/watchexec/watchexec/pull/1059) — docs: quit on `Signal::Terminate`
 
-Also open: **Oxc** · **Dioxus** · **ripgrep** · **hexyl**
-
 ---
 
 ## Stack
