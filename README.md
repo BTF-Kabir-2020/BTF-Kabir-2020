@@ -43,6 +43,6 @@ Also open: **Oxc** · **Dioxus** · **ripgrep** · **hexyl**
 ---
 
 <p align="left">
-  <img src="https://ghstats.dev/api/card?username=BTF-Kabir-2020&theme=one_dark&size=compact&hide=issues,streak,week,trend,avg,active_day,grade,followers" alt="GitHub stats" width="48%" height="176" />
-  <img src="https://ghstats.dev/api/langs?username=BTF-Kabir-2020&layout=bar&theme=nord&max_langs=12" alt="Top languages" width="48%" height="176" />
+  <img src="https://ghstats.dev/api/card?username=BTF-Kabir-2020&theme=one_dark&size=compact&hide=issues,streak,week,trend,avg,active_day,grade,followers" alt="GitHub stats" width="48%" />
+  <img src="https://ghstats.dev/api/langs?username=BTF-Kabir-2020&layout=bar&theme=nord&max_langs=12" alt="Top languages" width="51.5%" />
 </p>
