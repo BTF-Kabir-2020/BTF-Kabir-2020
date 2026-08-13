@@ -43,6 +43,6 @@ Also open: **Oxc** · **Dioxus** · **ripgrep** · **hexyl**
 ---
 
 <p align="left">
-  <img src="https://ghstats.dev/api/card?username=BTF-Kabir-2020&theme=one_dark" alt="GitHub stats" height="140" />
+  <img src="https://ghstats.dev/api/card?username=BTF-Kabir-2020&theme=one_dark&size=compact" alt="GitHub stats" height="164" />
   <img src="https://ghstats.dev/api/langs?username=BTF-Kabir-2020&layout=bar&theme=nord&max_langs=12" alt="Top languages" height="164" />
 </p>
