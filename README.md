@@ -44,5 +44,5 @@ Also open: **Oxc** · **Dioxus** · **ripgrep** · **hexyl**
 
 <p align="left">
   <img src="https://ghstats.dev/api/card?username=BTF-Kabir-2020&theme=one_dark" alt="GitHub stats" height="140" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BTF-Kabir-2020&layout=compact&theme=one_dark_pro" alt="Top languages" height="140" />
+  <img src="https://ghstats.dev/api/langs?username=BTF-Kabir-2020&layout=compact&theme=nord" alt="Top languages" height="140" />
 </p>
