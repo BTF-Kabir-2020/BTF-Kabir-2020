@@ -1,32 +1,33 @@
-# BTF Kabir
+﻿# BTF Kabir
 
-**Full-stack & infrastructure** · TypeScript · NestJS · Next.js · Rust  
+**Full-stack & infrastructure**  TypeScript  NestJS  Next.js  Rust  
 Team Lead at [Amen Security](https://amensecurity.ca)
 
-I ship production web platforms end-to-end (API, web, auth, deploy) and build systems tooling in Rust when it fits — control planes, CLIs, and DX extensions.
+I ship production web platforms end-to-end (API, web, auth, deploy) and build systems tooling in Rust when it fits - control planes, CLIs, and DX extensions.
 
 ---
 
 ## Now
 
-- **[NebulaGrid](https://github.com/BTF-Kabir-2020/NebulaGrid)** — Open-source infra control plane — Rust/Axum gateway + React dashboard · [wiki](https://github.com/BTF-Kabir-2020/NebulaGrid/wiki)
-- **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** — RTL Markdown preview — [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd) · [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd)
+- **[aurum-rs](https://github.com/BTF-Kabir-2020/aurum-rs)** - Financial market intelligence engine in Rust: real XAU/USD data, transparent rule-based BUY/SELL/HOLD signals, CLI + REST API + TUI, SQLite persistence. [v0.1.0 release](https://github.com/BTF-Kabir-2020/aurum-rs/releases) with installers (cargo-dist)
+- **[NebulaGrid](https://github.com/BTF-Kabir-2020/NebulaGrid)** - Open-source infra control plane - Rust/Axum gateway + React dashboard  [wiki](https://github.com/BTF-Kabir-2020/NebulaGrid/wiki)
+- **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** - RTL Markdown preview - [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd)  [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd)
 
 ---
 
 ## Open source
 
-Merged contributions on the JS infra → Rust tooling path:
+Merged contributions on the JS infra  Rust tooling path:
 
-- [Nitro #4442](https://github.com/nitrojs/nitro/pull/4442) — docs: `event.url.pathname` in lifecycle
-- [Biome #11007](https://github.com/biomejs/biome/pull/11007) — fix: `forwardRef` + `useHookAtTopLevel`
-- [Watchexec #1059](https://github.com/watchexec/watchexec/pull/1059) — docs: quit on `Signal::Terminate`
+- [Nitro #4442](https://github.com/nitrojs/nitro/pull/4442) - docs: `event.url.pathname` in lifecycle
+- [Biome #11007](https://github.com/biomejs/biome/pull/11007) - fix: `forwardRef` + `useHookAtTopLevel`
+- [Watchexec #1059](https://github.com/watchexec/watchexec/pull/1059) - docs: quit on `Signal::Terminate`
 
 ---
 
 ## Stack
 
-`TypeScript` · `React` · `Next.js` · `NestJS` · `Node.js` · `Rust` · `Axum` · `Docker` · `Postgres` · `Redis` · `nginx`
+`TypeScript`  `React`  `Next.js`  `NestJS`  `Node.js`  `Rust`  `Axum`  `Docker`  `Postgres`  `Redis`  `nginx`
 
 ---
 
