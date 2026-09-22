@@ -1,7 +1,7 @@
-﻿# BTF Kabir
+﻿# Pouya Ghourchiani
 
-**Full-stack & infrastructure**  TypeScript  NestJS  Next.js  Rust  
-Team Lead at [Amen Security](https://amensecurity.ca)
+**aka BTF Kabir** · Full-stack & infrastructure · TypeScript · NestJS · Next.js · Rust  
+Team Lead at [Amen Security](https://amensecurity.ca) · Site: [ghourchiani.ir](https://ghourchiani.ir)
 
 I ship production web platforms end-to-end (API, web, auth, deploy) and build systems tooling in Rust when it fits - control planes, CLIs, and DX extensions.
 
@@ -10,14 +10,14 @@ I ship production web platforms end-to-end (API, web, auth, deploy) and build sy
 ## Now
 
 - **[aurum-rs](https://github.com/BTF-Kabir-2020/aurum-rs)** - Financial market intelligence engine in Rust: real XAU/USD data, transparent rule-based BUY/SELL/HOLD signals, CLI + REST API + TUI, SQLite persistence. [v0.1.0 release](https://github.com/BTF-Kabir-2020/aurum-rs/releases) with installers (cargo-dist)
-- **[NebulaGrid](https://github.com/BTF-Kabir-2020/NebulaGrid)** - Open-source infra control plane - Rust/Axum gateway + React dashboard  [wiki](https://github.com/BTF-Kabir-2020/NebulaGrid/wiki)
-- **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** - RTL Markdown preview - [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd)  [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd)
+- **[NebulaGrid](https://github.com/BTF-Kabir-2020/NebulaGrid)** - Open-source infra control plane - Rust/Axum gateway + React dashboard · [wiki](https://github.com/BTF-Kabir-2020/NebulaGrid/wiki)
+- **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** - RTL Markdown preview - [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd) · [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd)
 
 ---
 
 ## Open source
 
-Merged contributions on the JS infra  Rust tooling path:
+Merged contributions on the JS infra & Rust tooling path:
 
 - [Nitro #4442](https://github.com/nitrojs/nitro/pull/4442) - docs: `event.url.pathname` in lifecycle
 - [Biome #11007](https://github.com/biomejs/biome/pull/11007) - fix: `forwardRef` + `useHookAtTopLevel`
@@ -33,6 +33,7 @@ Merged contributions on the JS infra  Rust tooling path:
 
 ## Links
 
+[![Site](https://img.shields.io/badge/ghourchiani.ir-0B1220?style=flat-square&logo=googlechrome&logoColor=white)](https://ghourchiani.ir)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/irscript_ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-gh-56343638b/)
 [![Amen](https://img.shields.io/badge/Amen_Security-111827?style=flat-square)](https://amensecurity.ca)
