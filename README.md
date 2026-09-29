@@ -35,7 +35,7 @@ Merged contributions on the JS infra & Rust tooling path:
 
 [![Site](https://img.shields.io/badge/ghourchiani.ir-0B1220?style=flat-square&logo=googlechrome&logoColor=white)](https://ghourchiani.ir)
 [![Blog](https://img.shields.io/badge/Blog-FF7139?style=flat-square&logo=rss&logoColor=white)](https://ghourchiani.ir/blog)
-[![CV](https://img.shields.io/badge/CV-Pouya_Ghourchiani-1565C0?style=flat-square)](https://github.com/BTF-Kabir-2020/BTF-Kabir-2020/raw/main/Pouya_Ghourchiani_Full_Stack_Engineer_CV.pdf)
+[![CV](https://img.shields.io/badge/CV-Pouya_Ghourchiani-1565C0?style=flat-square)](https://github.com/BTF-Kabir-2020/BTF-Kabir-2020/blob/main/Mohammad_Pouya_Ghourchiani_Full-Stack.pdf)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/irscript_ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-gh-56343638b/)
 [![Amen](https://img.shields.io/badge/Amen_Security-111827?style=flat-square)](https://amensecurity.ca)
