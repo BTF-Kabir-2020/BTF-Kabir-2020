@@ -2,7 +2,7 @@
 
 **aka BTF Kabir · The Persian Rust Father 🦀** · Full-Stack & Infrastructure Engineer · TypeScript · Rust · NestJS · Next.js
 
-Team Lead at [Amen Security](https://amensecurity.ca) · Site: [ghourchiani.ir](https://ghourchiani.ir)
+CTO at [Amen Security](https://amensecurity.ca) · Site: [ghourchiani.ir](https://ghourchiani.ir)
 
 I build production web platforms end-to-end — API, web, auth, deploy — and reach for Rust where it fits: control planes, CLIs, and developer tooling.
 
