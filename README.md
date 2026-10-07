@@ -10,9 +10,9 @@ I build production web platforms end-to-end — API, web, auth, deploy — and r
 
 ## 🦀 The Persian Rust Father
 
-A title earned the hard way: correctness, control, and performance — systems that keep working when the happy path disappears.
+Rust for correctness, control, and performance — systems that stay up when the happy path disappears.
 
-The code is here.
+**Read the code.**
 
 ---
 
