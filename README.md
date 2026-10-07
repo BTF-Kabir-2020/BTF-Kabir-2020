@@ -1,27 +1,52 @@
 ﻿# Pouya Ghourchiani
 
-**aka BTF Kabir** · Full-stack & infrastructure · TypeScript · NestJS · Next.js · Rust  
+**aka BTF Kabir · The Persian Rust Father 🦀** · Full-Stack & Infrastructure Engineer · TypeScript · Rust · NestJS · Next.js
+
 Team Lead at [Amen Security](https://amensecurity.ca) · Site: [ghourchiani.ir](https://ghourchiani.ir)
 
-I ship production web platforms end-to-end (API, web, auth, deploy) and build systems tooling in Rust when it fits - control planes, CLIs, and DX extensions.
+I build production web platforms end-to-end — API, web, auth, deploy — and reach for Rust where it fits: control planes, CLIs, and developer tooling.
+
+---
+
+## 🦀 The Persian Rust Father
+
+A nickname, not a claim of superiority.
+
+I write Rust because I care about correctness, control, performance, and systems that have to keep working when the happy path disappears.
+
+The code is here. Judge the title accordingly.
+
+---
+
+## What I Build
+
+- **Full-stack platforms** — TypeScript, React, Next.js, NestJS
+- **Systems & infrastructure tooling** — Rust, Axum, CLIs, control planes
+- **Backend & APIs** — REST, authentication, RBAC, databases, real-time systems
+- **Infrastructure** — Linux, Docker, Nginx, PostgreSQL, Redis, CI/CD
+- **Restricted-network tooling** — mirrors, installers, gateways, and systems designed around unreliable egress
+- **Developer tooling** — extensions, automation, DX-focused utilities
 
 ---
 
 ## Now
 
-- **[aurum-rs](https://github.com/BTF-Kabir-2020/aurum-rs)** - Financial market intelligence engine in Rust: real XAU/USD data, transparent rule-based BUY/SELL/HOLD signals, CLI + REST API + TUI, SQLite persistence. [v0.1.0 release](https://github.com/BTF-Kabir-2020/aurum-rs/releases) with installers (cargo-dist)
-- **[NebulaGrid](https://github.com/BTF-Kabir-2020/NebulaGrid)** - Open-source infra control plane - Rust/Axum gateway + React dashboard · [wiki](https://github.com/BTF-Kabir-2020/NebulaGrid/wiki)
-- **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** - RTL Markdown preview - [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd) · [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd)
+- **[aurum-rs](https://github.com/BTF-Kabir-2020/aurum-rs)** — Financial market intelligence engine in Rust — real XAU/USD data, transparent rule-based BUY/SELL/HOLD signals. CLI · REST API · TUI · SQLite. [v0.1.0 release](https://github.com/BTF-Kabir-2020/aurum-rs/releases) with cargo-dist installers
+- **[NebulaGrid](https://github.com/BTF-Kabir-2020/NebulaGrid)** — Open-source infrastructure control plane — Rust/Axum gateway with a React dashboard for servers, containers, VMs, Kubernetes, and storage. [wiki](https://github.com/BTF-Kabir-2020/NebulaGrid/wiki)
+- **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** — RTL-first Markdown preview for VS Code — built for Persian and Arabic developers who shouldn't have to fight the editor. [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd) · [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd)
+- **[apt-mirror-pro](https://github.com/BTF-Kabir-2020/apt-mirror-pro)** — Ubuntu/Debian APT mirror switcher — speed tests, regional mirrors, DNS helpers, and mirror selection for restricted networks and unreliable egress
 
 ---
 
-## Open source
+## Open Source
 
-Merged contributions on the JS infra & Rust tooling path:
+I don't just build greenfield projects. Merged upstream work on the JS infra & Rust tooling path:
 
-- [Nitro #4442](https://github.com/nitrojs/nitro/pull/4442) - docs: `event.url.pathname` in lifecycle
-- [Biome #11007](https://github.com/biomejs/biome/pull/11007) - fix: `forwardRef` + `useHookAtTopLevel`
-- [Watchexec #1059](https://github.com/watchexec/watchexec/pull/1059) - docs: quit on `Signal::Terminate`
+- [Nitro #4442](https://github.com/nitrojs/nitro/pull/4442) — docs: `event.url.pathname` in lifecycle
+- [Biome #11007](https://github.com/biomejs/biome/pull/11007) — fix: `forwardRef` + `useHookAtTopLevel`
+- [Watchexec #1059](https://github.com/watchexec/watchexec/pull/1059) — docs: quit on `Signal::Terminate`
+
+Merged upstream work is often more interesting than another demo project.
 
 ---
 
@@ -31,7 +56,21 @@ Merged contributions on the JS infra & Rust tooling path:
 
 ---
 
-## Links
+## Engineering Philosophy
+
+I prefer:
+
+- simple architecture over accidental complexity
+- boring infrastructure over fragile infrastructure
+- measurable behavior over assumptions
+- upstream contributions over isolated reinvention
+- tools that survive real-world constraints over tools that only work in demos
+
+And when a problem doesn't fit the mainstream path — build the missing piece.
+
+---
+
+## Find Me
 
 [![Site](https://img.shields.io/badge/ghourchiani.ir-0B1220?style=flat-square&logo=googlechrome&logoColor=white)](https://ghourchiani.ir)
 [![Blog](https://img.shields.io/badge/Blog-FF7139?style=flat-square&logo=rss&logoColor=white)](https://ghourchiani.ir/blog)
@@ -48,3 +87,7 @@ Merged contributions on the JS infra & Rust tooling path:
   <img src="https://ghstats.dev/api/card?username=BTF-Kabir-2020&theme=one_dark&size=compact&hide=issues,streak,week,trend,avg,active_day,grade,followers" alt="GitHub stats" width="46%" />
   <img src="https://ghstats.dev/api/langs?username=BTF-Kabir-2020&layout=bar&theme=nord&max_langs=12" alt="Top languages" width="49.4%" />
 </p>
+
+---
+
+*The title is provocative. The repositories are the evidence.*
