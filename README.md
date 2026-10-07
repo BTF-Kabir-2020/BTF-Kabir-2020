@@ -10,11 +10,9 @@ I build production web platforms end-to-end — API, web, auth, deploy — and r
 
 ## 🦀 The Persian Rust Father
 
-A nickname, not a claim of superiority.
+A title earned the hard way: correctness, control, and performance — systems that keep working when the happy path disappears.
 
-I write Rust because I care about correctness, control, performance, and systems that have to keep working when the happy path disappears.
-
-The code is here. Judge the title accordingly.
+The code is here.
 
 ---
 
