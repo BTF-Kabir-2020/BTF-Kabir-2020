@@ -8,14 +8,6 @@ I build production web platforms end-to-end — API, web, auth, deploy — and r
 
 ---
 
-## 🦀 The Persian Rust Father
-
-Rust for correctness, control, and performance — systems that stay up when the happy path disappears.
-
-**Read the code.**
-
----
-
 ## What I Build
 
 - **Full-stack platforms** — TypeScript, React, Next.js, NestJS
@@ -29,9 +21,10 @@ Rust for correctness, control, and performance — systems that stay up when the
 
 ## Now
 
+- **[NebulaGrid](https://github.com/BTF-Kabir-2020/NebulaGrid)** — Open-source infrastructure control plane — Rust/Axum gateway with a React dashboard for servers, containers, VMs, Kubernetes, and storage. [wiki](https://github.com/BTF-Kabir-2020/NebulaGrid/wiki) · [status & roadmap](https://github.com/BTF-Kabir-2020/NebulaGrid#status)
 - **[aurum-rs](https://github.com/BTF-Kabir-2020/aurum-rs)** — Financial market intelligence engine in Rust — real XAU/USD data, transparent rule-based BUY/SELL/HOLD signals. CLI · REST API · TUI · SQLite. [v0.1.0 release](https://github.com/BTF-Kabir-2020/aurum-rs/releases) with cargo-dist installers
-- **[NebulaGrid](https://github.com/BTF-Kabir-2020/NebulaGrid)** — Open-source infrastructure control plane — Rust/Axum gateway with a React dashboard for servers, containers, VMs, Kubernetes, and storage. [wiki](https://github.com/BTF-Kabir-2020/NebulaGrid/wiki)
 - **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** — RTL-first Markdown preview for VS Code — built for Persian and Arabic developers who shouldn't have to fight the editor. [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd) · [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd)
+- **[dnstt-kit](https://github.com/BTF-Kabir-2020/dnstt-kit)** — Rust operator toolkit for DNSTT — scan large UDP resolver lists and generate client configs. CLI · localhost web UI · SQLite history · FFI scanner core (Python/JNI/Android) · Docker. [v0.1.7 releases](https://github.com/BTF-Kabir-2020/dnstt-kit/releases)
 - **[apt-mirror-pro](https://github.com/BTF-Kabir-2020/apt-mirror-pro)** — Ubuntu/Debian APT mirror switcher — speed tests, regional mirrors, DNS helpers, and mirror selection for restricted networks and unreliable egress
 
 ---
@@ -85,7 +78,3 @@ And when a problem doesn't fit the mainstream path — build the missing piece.
   <img src="https://ghstats.dev/api/card?username=BTF-Kabir-2020&theme=one_dark&size=compact&hide=issues,streak,week,trend,avg,active_day,grade,followers" alt="GitHub stats" width="46%" />
   <img src="https://ghstats.dev/api/langs?username=BTF-Kabir-2020&layout=bar&theme=nord&max_langs=12" alt="Top languages" width="49.4%" />
 </p>
-
----
-
-*The title is provocative. The repositories are the evidence.*
