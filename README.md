@@ -68,6 +68,7 @@ And when a problem doesn't fit the mainstream path — build the missing piece.
 [![CV](https://img.shields.io/badge/CV-Pouya_Ghourchiani-1565C0?style=flat-square)](https://github.com/BTF-Kabir-2020/BTF-Kabir-2020/blob/main/Mohammad_Pouya_Ghourchiani_Full-Stack.pdf)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/irscript_ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-gh-56343638b/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Ghourchiani)
 [![Amen](https://img.shields.io/badge/Amen_Security-111827?style=flat-square)](https://amensecurity.ca)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/f7tnJcBZDb)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Tekoya-learn)
