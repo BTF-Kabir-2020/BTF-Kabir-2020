@@ -26,18 +26,32 @@ I build production web platforms end-to-end — API, web, auth, deploy — and r
 - **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** — RTL-first Markdown preview for VS Code — built for Persian and Arabic developers who shouldn't have to fight the editor. [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd) · [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd)
 - **[dnstt-kit](https://github.com/BTF-Kabir-2020/dnstt-kit)** — Rust operator toolkit for DNSTT — scan large UDP resolver lists and generate client configs. CLI · localhost web UI · SQLite history · FFI scanner core (Python/JNI/Android) · Docker. [v0.1.7 releases](https://github.com/BTF-Kabir-2020/dnstt-kit/releases)
 - **[apt-mirror-pro](https://github.com/BTF-Kabir-2020/apt-mirror-pro)** — Ubuntu/Debian APT mirror switcher — speed tests, regional mirrors, DNS helpers, and mirror selection for restricted networks and unreliable egress
+- **[wireglass](https://github.com/BTF-Kabir-2020/wireglass)** — Local-only Rust CLI that walks DNS → TCP → TLS (ALPN) → HTTP/2 → HTTP/3 and reports each step as a real, reproducible measurement. [3 stars](https://github.com/BTF-Kabir-2020/wireglass/stargazers)
+- **[opencode-browser-agent](https://github.com/BTF-Kabir-2020/opencode-browser-agent)** — OpenCode plugin for agent-browser: policy-first browser automation for AI agents (persistent sessions, dev tools, auto-connect). TypeScript. [1 star](https://github.com/BTF-Kabir-2020/opencode-browser-agent/stargazers)
 
 ---
 
 ## Open Source
 
-I don't just build greenfield projects. Merged upstream work on the JS infra & Rust tooling path:
+I don't just build greenfield projects. Merged upstream work across Rust tooling, JS infra, and developer tools:
 
-- [Nitro #4442](https://github.com/nitrojs/nitro/pull/4442) — docs: `event.url.pathname` in lifecycle
-- [Biome #11007](https://github.com/biomejs/biome/pull/11007) — fix: `forwardRef` + `useHookAtTopLevel`
-- [Watchexec #1059](https://github.com/watchexec/watchexec/pull/1059) — docs: quit on `Signal::Terminate`
+- [BurntSushi/ripgrep #3491](https://github.com/BurntSushi/ripgrep/pull/3491) — docs(faq): document Windows path separators and UTF-8 locale
+- [nitrojs/nitro #4442](https://github.com/nitrojs/nitro/pull/4442) — docs: use `event.url.pathname` in lifecycle hook examples
+- [nitrojs/nitro #4445](https://github.com/nitrojs/nitro/pull/4445) — docs: clarify route-scoped middleware example path
+- [nitrojs/nitro #4452](https://github.com/nitrojs/nitro/pull/4452) — docs: document `minify: false` for debugging workers
+- [biomejs/biome #11007](https://github.com/biomejs/biome/pull/11007) — fix: recognize `forwardRef` named components with ref params
+- [watchexec/watchexec #1059](https://github.com/watchexec/watchexec/pull/1059) — docs: quit on `Signal::Terminate`
 
 Merged upstream work is often more interesting than another demo project.
+
+### In review (open PRs)
+
+- [rust-lang/rust-clippy #17916](https://github.com/rust-lang/rust-clippy/pull/17916) — fix: `single_component_path_imports` FP when used via `crate::` / `super::`
+- [containers/aardvark-dns #729](https://github.com/containers/aardvark-dns/pull/729) — fix: return NODATA instead of NXDOMAIN for known names
+- [sharkdp/hexyl #287](https://github.com/sharkdp/hexyl/pull/287) — feat: allow multiple `--skip` options to add together
+- [DioxusLabs/dioxus #5690](https://github.com/DioxusLabs/dioxus/pull/5690) — feat(cli): add TOML schema comment to bundled `dioxus.toml`
+- [oxc-project/oxc #24737](https://github.com/oxc-project/oxc/pull/24737) — feat(linter/unicorn): implement `no-duplicate-set-values` rule
+- plus several template PRs in [DioxusLabs/dioxus-template](https://github.com/DioxusLabs/dioxus-template/pulls?q=is%3Apr+author%3ABTF-Kabir-2020)
 
 ---
 
