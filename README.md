@@ -47,10 +47,6 @@ Merged upstream work is often more interesting than another demo project.
 ### In review (open PRs)
 
 - [rust-lang/rust-clippy #17916](https://github.com/rust-lang/rust-clippy/pull/17916) — fix: `single_component_path_imports` FP when used via `crate::` / `super::`
-- [containers/aardvark-dns #729](https://github.com/containers/aardvark-dns/pull/729) — fix: return NODATA instead of NXDOMAIN for known names
-- [sharkdp/hexyl #287](https://github.com/sharkdp/hexyl/pull/287) — feat: allow multiple `--skip` options to add together
-- [DioxusLabs/dioxus #5690](https://github.com/DioxusLabs/dioxus/pull/5690) — feat(cli): add TOML schema comment to bundled `dioxus.toml`
-- [oxc-project/oxc #24737](https://github.com/oxc-project/oxc/pull/24737) — feat(linter/unicorn): implement `no-duplicate-set-values` rule
 - plus several template PRs in [DioxusLabs/dioxus-template](https://github.com/DioxusLabs/dioxus-template/pulls?q=is%3Apr+author%3ABTF-Kabir-2020)
 
 ---
