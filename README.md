@@ -26,8 +26,8 @@ I build production web platforms end-to-end — API, web, auth, deploy — and r
 - **[BidiMD](https://github.com/BTF-Kabir-2020/BidiMD)** — RTL-first Markdown preview for VS Code — built for Persian and Arabic developers who shouldn't have to fight the editor. [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=BTF-Kabir.bidimd) · [Open VSX](https://open-vsx.org/extension/BTF-Kabir/bidimd)
 - **[dnstt-kit](https://github.com/BTF-Kabir-2020/dnstt-kit)** — Rust operator toolkit for DNSTT — scan large UDP resolver lists and generate client configs. CLI · localhost web UI · SQLite history · FFI scanner core (Python/JNI/Android) · Docker. [v0.1.7 releases](https://github.com/BTF-Kabir-2020/dnstt-kit/releases)
 - **[apt-mirror-pro](https://github.com/BTF-Kabir-2020/apt-mirror-pro)** — Ubuntu/Debian APT mirror switcher — speed tests, regional mirrors, DNS helpers, and mirror selection for restricted networks and unreliable egress
-- **[wireglass](https://github.com/BTF-Kabir-2020/wireglass)** — Local-only Rust CLI that walks DNS → TCP → TLS (ALPN) → HTTP/2 → HTTP/3 and reports each step as a real, reproducible measurement. [3 stars](https://github.com/BTF-Kabir-2020/wireglass/stargazers)
-- **[opencode-browser-agent](https://github.com/BTF-Kabir-2020/opencode-browser-agent)** — OpenCode plugin for agent-browser: policy-first browser automation for AI agents (persistent sessions, dev tools, auto-connect). TypeScript. [1 star](https://github.com/BTF-Kabir-2020/opencode-browser-agent/stargazers)
+- **[wireglass](https://github.com/BTF-Kabir-2020/wireglass)** — Local-only Rust CLI that walks DNS → TCP → TLS (ALPN) → HTTP/2 → HTTP/3 and reports each step as a real, reproducible measurement.
+- **[opencode-browser-agent](https://github.com/BTF-Kabir-2020/opencode-browser-agent)** — OpenCode plugin for agent-browser: policy-first browser automation for AI agents (persistent sessions, dev tools, auto-connect). TypeScript.
 
 ---
 
