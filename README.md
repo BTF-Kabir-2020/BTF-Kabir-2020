@@ -47,7 +47,7 @@ Merged upstream work is often more interesting than another demo project.
 ### In review (open PRs)
 
 - [rust-lang/rust-clippy #17916](https://github.com/rust-lang/rust-clippy/pull/17916) — fix: `single_component_path_imports` FP when used via `crate::` / `super::`
-- [sharkdp/fd #2197](https://github.com/sharkdp/fd/pull/2197) — fix: preserve raw non-UTF-8 filename bytes in piped `--format` output on Unix; fixes [#2189](https://github.com/sharkdp/fd/issues/2189). All checks passed (18 successful, 1 skipped).
+- [sharkdp/fd #2197](https://github.com/sharkdp/fd/pull/2197) — fix: preserve raw non-UTF-8 filename bytes in piped `--format` output on Unix
 - 
 ---
 
