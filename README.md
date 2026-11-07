@@ -41,13 +41,13 @@ I don't just build greenfield projects. Merged upstream work across Rust tooling
 - [nitrojs/nitro #4452](https://github.com/nitrojs/nitro/pull/4452) — docs: document `minify: false` for debugging workers
 - [biomejs/biome #11007](https://github.com/biomejs/biome/pull/11007) — fix: recognize `forwardRef` named components with ref params
 - [watchexec/watchexec #1059](https://github.com/watchexec/watchexec/pull/1059) — docs: quit on `Signal::Terminate`
+- [sharkdp/fd #2197](https://github.com/sharkdp/fd/pull/2197) — fix: preserve raw non-UTF-8 filename bytes in piped `--format` output on Unix
 
 Merged upstream work is often more interesting than another demo project.
 
 ### In review (open PRs)
 
 - [rust-lang/rust-clippy #17916](https://github.com/rust-lang/rust-clippy/pull/17916) — fix: `single_component_path_imports` FP when used via `crate::` / `super::`
-- [sharkdp/fd #2197](https://github.com/sharkdp/fd/pull/2197) — fix: preserve raw non-UTF-8 filename bytes in piped `--format` output on Unix
 - 
 ---
 
