@@ -48,7 +48,6 @@ Merged upstream work is often more interesting than another demo project.
 ### In review (open PRs)
 
 - [rust-lang/rust-clippy #17916](https://github.com/rust-lang/rust-clippy/pull/17916) — fix: `single_component_path_imports` FP when used via `crate::` / `super::`
-- 
 ---
 
 ## Stack
