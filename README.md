@@ -33,21 +33,23 @@ I build production web platforms end-to-end — API, web, auth, deploy — and r
 
 ## Open Source
 
-I don't just build greenfield projects. Merged upstream work across Rust tooling, JS infra, and developer tools:
+Merged fixes and selected protocol reviews in upstream Rust and JS projects:
 
 - [BurntSushi/ripgrep #3491](https://github.com/BurntSushi/ripgrep/pull/3491) — docs(faq): document Windows path separators and UTF-8 locale
-- [nitrojs/nitro #4442](https://github.com/nitrojs/nitro/pull/4442) — docs: use `event.url.pathname` in lifecycle hook examples
-- [nitrojs/nitro #4445](https://github.com/nitrojs/nitro/pull/4445) — docs: clarify route-scoped middleware example path
-- [nitrojs/nitro #4452](https://github.com/nitrojs/nitro/pull/4452) — docs: document `minify: false` for debugging workers
+- nitrojs/nitro [#4442](https://github.com/nitrojs/nitro/pull/4442) · [#4445](https://github.com/nitrojs/nitro/pull/4445) · [#4452](https://github.com/nitrojs/nitro/pull/4452) — docs fixes: `event.url.pathname` in hooks, route-scoped middleware path, `minify: false` for debugging workers
 - [biomejs/biome #11007](https://github.com/biomejs/biome/pull/11007) — fix: recognize `forwardRef` named components with ref params
 - [watchexec/watchexec #1059](https://github.com/watchexec/watchexec/pull/1059) — docs: quit on `Signal::Terminate`
 - [sharkdp/fd #2197](https://github.com/sharkdp/fd/pull/2197) — fix: preserve raw non-UTF-8 filename bytes in piped `--format` output on Unix
 
-Merged upstream work is often more interesting than another demo project.
+### Selected protocol reviews
 
-### In review (open PRs)
+- [hyperium/hyper #4194](https://github.com/hyperium/hyper/pull/4194#pullrequestreview-5985183513) — review of the HTTP/2 `TE` header fix: confirmed the first-value-only bug and requested a positive test for repeated `TE: trailers` fields; the author added it.
+- [hyperium/hyper #4217](https://github.com/hyperium/hyper/pull/4217#pullrequestreview-5973757605) — review of HTTP/2 `100 Continue` support: checked RFC 9113 §8.8.5 and the pinned `h2` API, and flagged a scheduler-dependent test.
 
-- [rust-lang/rust-clippy #17916](https://github.com/rust-lang/rust-clippy/pull/17916) — fix: `single_component_path_imports` FP when used via `crate::` / `super::`
+### Open
+
+- [rust-lang/rust-clippy #17916](https://github.com/rust-lang/rust-clippy/pull/17916) — fix: `single_component_path_imports` FP when used via `crate::` / `super::` — 2 approvals, `S-waiting-on-review`.
+
 ---
 
 ## Stack
