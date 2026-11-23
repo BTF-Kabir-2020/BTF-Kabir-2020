@@ -87,6 +87,6 @@ And when a problem doesn't fit the mainstream path — build the missing piece.
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BTF-Kabir-2020&theme=github_dark&show_icons=false&hide_rank=true" alt="GitHub stats" width="42%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BTF-Kabir-2020&layout=compact&theme=github_dark&max_langs=12" alt="Top languages" width="51.9%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BTF-Kabir-2020&theme=github_dark&show_icons=false&hide_rank=true&card_width=400&line_height=20" alt="GitHub stats" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BTF-Kabir-2020&layout=compact&theme=github_dark&langs_count=6&card_width=400" alt="Top languages" width="47%" />
 </p>
